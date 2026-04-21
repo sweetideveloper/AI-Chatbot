@@ -46,14 +46,6 @@ It leverages **Groq’s ultra-low latency inference** with **LangChain orchestra
 
 ---
 
-## 🖼️ UI Preview
-
-<p align="center">
-  <img src="https://via.placeholder.com/800x400.png?text=App+Screenshot+Here" width="700"/>
-</p>
-
----
-
 ## 🛠️ Tech Stack
 
 | Category        | Technology |
