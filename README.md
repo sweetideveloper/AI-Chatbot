@@ -17,9 +17,8 @@
 
 ## 🎬 Live Demo
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/d20315fe-17fd-43ef-9c39-4bf389f6d766" width="600"/>
-</p>
+<img width="1799" height="715" alt="Screenshot 2026-04-23 141948" src="https://github.com/user-attachments/assets/ac770950-cbee-48cf-bd03-f8d7b4406a94" />
+
 
 ---
 
